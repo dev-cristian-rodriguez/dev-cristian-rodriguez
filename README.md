@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MEARN**
-
 - 📫 How to reach me **cristianestiven1111@gmail.com**
 
 
