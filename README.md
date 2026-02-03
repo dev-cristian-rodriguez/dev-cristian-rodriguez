@@ -19,5 +19,3 @@
 <a href="https://www.instagram.com/cristianrodriguez0102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmRlLQuc9tlzEiD440mzLwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://media.istockphoto.com/id/1222173414/es/foto/empleado-cat-escribiendo-en-el-teclado.jpg?s=1024x1024&w=is&k=20&c=m9Q0sIldghMoIz2W8279zGH_bur-xzfAHzBedhhRocg=" alt="rishavchanda" /></p>
