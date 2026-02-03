@@ -35,6 +35,5 @@ I am a **Fullstack Developer** specialized in building scalable web applications
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/rodriguezbenitez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-rodriguez" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cristianrodriguez0102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristianrodriguez" height="30" width="40" /></a>
 <a href="https://cristianrodriguez-dev.onrender.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/geography.png" alt="portfolio" height="25" width="25" /></a>
 </p>
