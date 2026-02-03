@@ -32,15 +32,6 @@ I am a **Fullstack Developer** specialized in building scalable web applications
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-cristian-rodriguez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian-rodriguez&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-cristian-rodriguez&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
