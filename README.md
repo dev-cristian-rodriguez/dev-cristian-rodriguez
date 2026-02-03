@@ -10,7 +10,8 @@ I am a **Fullstack Developer** specialized in building scalable web applications
 
 - 🤖 **Current Focus:** Implementation of AI Agents for automated business communication.
 - ☁️ **Cloud Stack:** Designing robust infrastructures using AWS (Lambda, S3, DynamoDB, RDS).
-- 🛠️ **DevOps Journey:** Automating deployments and exploring CI/CD pipelines.
+- 🌱 **Learning:** Currently diving deep into **DevOps** (CI/CD, Docker, Kubernetes).
+- 📫 **Contact:** [cristianestiven1111@gmail.com](mailto:cristianestiven1111@gmail.com)
 
 ---
 
@@ -26,17 +27,27 @@ I am a **Fullstack Developer** specialized in building scalable web applications
   <br>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-cristian-rodriguez&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian-rodriguez&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-cristian-rodriguez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian-rodriguez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-cristian-rodriguez&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/rodriguezbenitez/) | [Portfolio](https://cristianrodriguez-dev.onrender.com) | [Email](mailto:cristianestiven1111@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/rodriguezbenitez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-rodriguez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cristianrodriguez0102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristianrodriguez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmRlLQuc9tlzEiD440mzLwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cristian-rodriguez-yt" height="30" width="40" /></a>
+<a href="https://cristianrodriguez-dev.onrender.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/geography.png" alt="portfolio" height="25" width="25" /></a>
+</p>
