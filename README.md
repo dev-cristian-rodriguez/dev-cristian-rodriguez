@@ -1,5 +1,5 @@
 # Hi 👋, I'm Cristian Rodriguez
-## Fullstack Developer | AI Implementation | Cloud Architecture
+## Fullstack Developer | Blockchain | Cloud Architecture
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dev-cristian-rodriguez&label=Profile%20views&color=0e75b6&style=flat" alt="dev-cristian-rodriguez" />
