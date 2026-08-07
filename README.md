@@ -12,6 +12,7 @@ high-performance software systems.
 - 🤖 Built AI-powered automation systems and backend microservices
 - 📫 cristianestiven1111@gmail.com
 
+
 ---
 
 ### 🛠️ Core Stack
@@ -27,6 +28,7 @@ HTML/CSS, Tailwind CSS
 
 **Languages:** Spanish (Native), English (B2)
 
+
 ---
 
 ### 💼 Experience Highlights
@@ -35,6 +37,7 @@ HTML/CSS, Tailwind CSS
 - Designed and maintained scalable backend services.
 - Developed production-ready frontend modules.
 - Contributed to system architecture and AI-driven automation workflows.
+
 
 ---
 
