@@ -1,8 +1,4 @@
-# Hi 👋, I'm Cristian Rodriguez
-
 ## Fullstack Developer
-
----
 
 ### 🚀 About Me
 
