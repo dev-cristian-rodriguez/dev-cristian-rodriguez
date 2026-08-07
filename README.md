@@ -43,5 +43,5 @@ HTML/CSS, Tailwind CSS
 ---
 
 ### 🌐 Connect with me
-- LinkedIn: linkedin.com/in/rodriguezbenitez  
+- LinkedIn: https://www.linkedin.com/in/rodriguezbenitez
 - Portfolio: https://portfolio.devcristianrodriguez.lat/
